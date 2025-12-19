@@ -21,7 +21,7 @@
 - 🌱 I'm constantly learning **React Native, Flutter, and Machine Learning**
 - 👯 I'm looking to collaborate on **innovative mobile and web projects**
 - 💬 Ask me about **Mobile Development, AI, Web Technologies, and Cloud Solutions**
-- 📫 How to reach me: **azhriler.dev@gmail.com**
+- 📫 How to reach me: **azhrielazazel@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code and bugs into features! ☕️**
 
 ---
@@ -88,14 +88,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Azhriler7&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
@@ -124,27 +116,13 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 ---
 
-## 🌟 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Azhriler7/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azhriler7&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/Azhriler7/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azhriler7&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2" />
-  </a>
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/azhriler-lintang-6343ba234"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/azhrl79"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:azhrielazazel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://mayoureal.web.id"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -153,14 +131,6 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad." alt="Dev Quote" />
-</p>
-
----
-
-## 🎵 Spotify Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
 </p>
 
 ---
