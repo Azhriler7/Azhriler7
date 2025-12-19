@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Pac-Man Animation
 
 on:
   # Run automatically every 24 hours
@@ -22,15 +22,14 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Generate the snake files in ./dist/
+      # Generate the pac-man style contribution graph in ./dist/
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Azhriler7
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ffcc00&color_dots=#0d1117,#161b22,#0e4429,#006d32,#26a641
 
       # Push the generated files to the output branch
       - name: Push github-contribution-grid-snake.svg to output branch

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./public/banner.png" alt="Azhriler Lintang Banner" width="100%"/>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+👋+I'm+Azhriler7;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing!" alt="Typing SVG" />
 </h1>
@@ -11,14 +15,14 @@
 
 ## 🚀 About Me
 
-🎯 **Passionate Developer** | 💻 **Code Enthusiast** | 🌟 **Open Source Contributor**
+🎯 **Mobile Engineer** | 💻 **AI & Web Enthusiast** | 🌟 **Tech Explorer**
 
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm constantly learning and exploring **new technologies**
-- 👯 I'm looking to collaborate on **innovative open source projects**
-- 💬 Ask me about **anything tech-related**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **I debug with console.log() 😄**
+- 🔭 I'm currently working on **mobile applications and AI-powered solutions**
+- 🌱 I'm constantly learning **React Native, Flutter, and Machine Learning**
+- 👯 I'm looking to collaborate on **innovative mobile and web projects**
+- 💬 Ask me about **Mobile Development, AI, Web Technologies, and Cloud Solutions**
+- 📫 How to reach me: **azhriler.dev@gmail.com**
+- ⚡ Fun fact: **I turn coffee into code and bugs into features! ☕️**
 
 ---
 
@@ -55,7 +59,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
 
 ### Tools & Platforms
@@ -65,8 +69,8 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
 ---
@@ -74,8 +78,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Azhriler7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Azhriler7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Azhriler7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Azhriler7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -87,7 +91,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Azhriler7&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Azhriler7&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -95,15 +99,15 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azhriler7&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azhriler7&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🎮 Contribution Pac-Man
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Azhriler7/Azhriler7/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Azhriler7/Azhriler7/output/github-contribution-grid-snake-dark.svg" alt="Pac-Man animation" />
 </p>
 
 ---
@@ -148,7 +152,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 ## 💡 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad." alt="Dev Quote" />
 </p>
 
 ---
