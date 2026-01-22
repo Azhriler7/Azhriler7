@@ -138,7 +138,3 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </p>
-
-<p align="center">
-  <b>⭐️ From <a href="https://github.com/Azhriler7">Azhriler7</a> with ❤️</b>
-</p>
